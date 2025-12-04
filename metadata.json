@@ -1,0 +1,8 @@
+{
+  "name": "UTG Medeia",
+  "description": "A comprehensive entertainment platform for Videos, Shorts, and Posts with seamless upload, AI-powered search, and community engagement features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
